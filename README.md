@@ -8,5 +8,8 @@ This project aims to streamline the key return process for the van rental compan
 
 Features
 -NFC Tag Scanning: Detects RFID tags using the PN532 NFC reader.
+
 -Vehicle ID Matching: Compares scanned RFID tags with predefined vehicle IDs.
+
 -Telegram Notification: Sends notifications to a specified Telegram chat when a matching vehicle is returned.
+
